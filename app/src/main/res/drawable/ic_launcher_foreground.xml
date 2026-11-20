@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cream botanical droplet silhouette within 66dp safe zone -->
+    <path
+        android:fillColor="#FAF8F4"
+        android:pathData="M54,28 C54,28 35,49 35,62.5 C35,73.27 43.51,81.5 54,81.5 C64.49,81.5 73,73.27 73,62.5 C73,49 54,28 54,28 Z" />
+    <!-- Subtle inner leaf stem and veins in sage -->
+    <path
+        android:strokeColor="#4A6048"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,45 L54,73 M54,57 L62,50 M54,64 L46,57" />
+</vector>
